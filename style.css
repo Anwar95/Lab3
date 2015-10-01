@@ -1,0 +1,49 @@
+#wrapper
+{
+	width:960px;
+	height:700px;
+	border:4px solid black;
+	margin:0 auto;
+}
+#header
+{	width:100%;
+	height:15%;
+	background:grey;
+}
+#container
+{	width:100%;
+	height:70%;
+	background:black;
+	
+	
+}
+#footer
+{	width:100%;
+	height:15%;
+	background:grey;
+	
+	
+}
+#middle1
+{	width:25%;
+	height:100%;
+	background:white;
+	float:left;
+	
+
+
+}
+#middle2
+{	width:50%;
+	height:100%;
+	background:white;
+	float:left;
+	
+}
+#middle3
+{	width:25%;
+	height:100%;
+	background:white;
+	float:left;
+	
+}
